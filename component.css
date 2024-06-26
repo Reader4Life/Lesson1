@@ -12,7 +12,10 @@
 }
 .widgets{
     display: flex;
-    gap:10px
+    gap:10px;
+    
+
+
 }
 .widget-item{
     border: 1px solid rgba(0, 0, 0, 0.06);
@@ -23,6 +26,7 @@
 }
 .widget-title{
     font-size: 10px;
+    text-decoration: none;
 }
 .widget-values{
     font-size: 10px;
